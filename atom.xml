@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hokuzyo.github.io</id>
     <title>Hokuzyo的社会示例网站</title>
-    <updated>2021-11-22T19:20:59.446Z</updated>
+    <updated>2021-11-22T19:33:07.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hokuzyo.github.io"/>
     <link rel="self" href="https://Hokuzyo.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://Hokuzyo.github.io/images/avatar.png</logo>
     <icon>https://Hokuzyo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hokuzyo的社会示例网站</rights>
+    <entry>
+        <title type="html"><![CDATA[Why Dimos？]]></title>
+        <id>https://Hokuzyo.github.io/post/why-dimos/</id>
+        <link href="https://Hokuzyo.github.io/post/why-dimos/">
+        </link>
+        <updated>2021-11-22T19:26:11.000Z</updated>
+        <content type="html"><![CDATA[<p>Dimos之所以成为Dimos<br>
+最最最开始是版主肝作业到后半夜的时候突发奇想😦<br>
+与其进行以往的PPT报告，不如尝试进行一个系统化社会网站的搭建</p>
+<p>Dimos名字直译为行星【火卫二】<br>
+同时也是源自Wikipedia：<br>
+<strong>民主（希腊语：δημοκρατία，罗马化：dìmokratía）（又称民主制、民主主义，旧译为德谟克拉西、德先生），原意指人民的统治（dimos意为人民，kratia意为统治），是政体的一种形式，当中人民拥有平等参与公共政策的参与权</strong></p>
+<p>我们希望建设一个假想民主的理想化社会<br>
+以达到小组作业完成的目的<br>
+又或许是达到某个更为崇高的理想</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社会风貌的建设]]></title>
         <id>https://Hokuzyo.github.io/post/she-hui-feng-mao-de-jian-she/</id>
@@ -68,15 +85,23 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[啊哦！这里还没有开始进行施工呢]]></title>
+        <title type="html"><![CDATA[欢迎来到Dimos，这是一个理想化的民主城市]]></title>
         <id>https://Hokuzyo.github.io/post/a-e-zhe-li-huan-mei-you-kai-shi-jin-xing-shi-gong-ni/</id>
         <link href="https://Hokuzyo.github.io/post/a-e-zhe-li-huan-mei-you-kai-shi-jin-xing-shi-gong-ni/">
         </link>
         <updated>2021-11-22T17:41:48.000Z</updated>
-        <content type="html"><![CDATA[<p>糟糕！！！<br>
-你来到了一个还没有进行施工的地方<br>
-这可不是我们预先设想的<br>
-别担心，我们很快就会进行资料上的补充<br>
+        <content type="html"><![CDATA[<p>如您所见，这里是Dimos的更新日志<br>
+我们依然在积极进行网站内容上的补充<br>
+欢迎您来提供城市的建设建议<br>
+版主微信：13713399866</p>
+<p>城市的建设背景是在澳门城市大学  社会学概论<br>
+在Dr.卢子健教授指导下<br>
+进行虚拟的社会建设模拟</p>
+<p>我们的宗旨是假设经济条件与社会背景无限制的情况下<br>
+建设出无限接近民主的理想社会<br>
+在这个标题下甚至可以衍生赛博朋克、乌托邦、魔法型社会<br>
+经再三讨论，我们小组也依然决定建设民主理想化城市<br>
+这就是Dimos的建设背景<br>
 <img src="https://Hokuzyo.github.io/post-images/1637603660169.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
