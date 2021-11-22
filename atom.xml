@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hokuzyo.github.io</id>
     <title>Hokuzyo的社会示例网站</title>
-    <updated>2021-11-22T19:01:00.157Z</updated>
+    <updated>2021-11-22T19:20:59.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hokuzyo.github.io"/>
     <link rel="self" href="https://Hokuzyo.github.io/atom.xml"/>
@@ -10,6 +10,63 @@
     <logo>https://Hokuzyo.github.io/images/avatar.png</logo>
     <icon>https://Hokuzyo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hokuzyo的社会示例网站</rights>
+    <entry>
+        <title type="html"><![CDATA[社会风貌的建设]]></title>
+        <id>https://Hokuzyo.github.io/post/she-hui-feng-mao-de-jian-she/</id>
+        <link href="https://Hokuzyo.github.io/post/she-hui-feng-mao-de-jian-she/">
+        </link>
+        <updated>2021-11-22T19:12:38.000Z</updated>
+        <content type="html"><![CDATA[<p>Dimos对宗教有所包容<br>
+我们允许具有能力的宗教建设教堂<br>
+以及进行宣传宗教的活动<br>
+但您需要做到以下几点<br>
+-您的宗教能确保不会对社会做出危害行为<br>
+-您组织的活动不会影响社区的日常周转，包括但不限于：<br>
+-影响城市交通<br>
+-致使社区人民心理混乱<br>
+-恶意影响市场价格，影响市民购买习惯<br>
+-对市民造成人身伤害<br>
+-对市区造成损害<br>
+-您能够确保宗教的活动是积极而有意义的<br>
+-您的宗教不会对任何人/传统文化造成侮辱及诋毁行为</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的领袖？]]></title>
+        <id>https://Hokuzyo.github.io/post/wo-men-de-ling-xiu/</id>
+        <link href="https://Hokuzyo.github.io/post/wo-men-de-ling-xiu/">
+        </link>
+        <updated>2021-11-22T19:09:56.000Z</updated>
+        <content type="html"><![CDATA[<p>Dimos决定以民为本，我们会采用政府民主选举制度<br>
+以选举出市民心目中的Top Leader<br>
+市民具有义务进行票选<br>
+让每一位市民都拥有决定自己生活环境的权力！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交政策]]></title>
+        <id>https://Hokuzyo.github.io/post/she-jiao-zheng-ce/</id>
+        <link href="https://Hokuzyo.github.io/post/she-jiao-zheng-ce/">
+        </link>
+        <updated>2021-11-22T19:06:34.000Z</updated>
+        <content type="html"><![CDATA[<p>Dimos接纳移民但设置审查准入较高门槛，我们不希望有过多的外来文化致使城市没有主题文化。<br>
+我们期望的是城市能够有长久而专一的文化以成为城市的灵魂与骨髓，能够以此传承给DImos市民的后代。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dimos的基础设定]]></title>
+        <id>https://Hokuzyo.github.io/post/dimos-de-ji-chu-she-ding/</id>
+        <link href="https://Hokuzyo.github.io/post/dimos-de-ji-chu-she-ding/">
+        </link>
+        <updated>2021-11-22T19:03:16.000Z</updated>
+        <content type="html"><![CDATA[<p>这座城市的预设面积为280平方英里左右<br>
+大约是一个新加坡的土地面积大小</p>
+<p>气候温和，地质灾害等较少<br>
+农牧业现代化生产可大部分自给自足<br>
+人口密度较少（90人每平方公里）<br>
+依靠科技金融旅游等高端产业</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[啊哦！这里还没有开始进行施工呢]]></title>
         <id>https://Hokuzyo.github.io/post/a-e-zhe-li-huan-mei-you-kai-shi-jin-xing-shi-gong-ni/</id>
