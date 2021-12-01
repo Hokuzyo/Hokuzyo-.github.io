@@ -2076,19 +2076,19 @@ body {
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeeefe;
     }h1, h2, h3, h4, h5, h6 {
-      color: #555;
+      color: #9c36b5;
     }
     
     .archive-timeline-title::before {
-      background-color: #555;
+      background-color: #9c36b5;
     }
     
     .post-title-link::before {
-      background-color: #555;
+      background-color: #9c36b5;
     }
     
     .node-title::before {
-      background-color: #555;
+      background-color: #9c36b5;
     }a {
       color: #555;
     }
@@ -2116,7 +2116,7 @@ body {
       background-color:  !important;
     }
       .nav-item a {
-        color:  #555;
+        color:  #212529;
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
@@ -2160,7 +2160,7 @@ body {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #ffd8a8fe;
+      background-color: #91a7fffe;
     }
     .site-meta {
      
@@ -2172,10 +2172,12 @@ body {
   
     }
     .main-title, .brand {
-      color: #FFF !important;
+      color: #862e9c !important;
     }
     .mist .site-title i {
-      background: #FFFFFFfe;
+      background: #862e9cfe;
+    }.box-shadow-wrapper {
+      padding: 10px;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {

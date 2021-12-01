@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hokuzyo.github.io</id>
     <title>Dimos理想城</title>
-    <updated>2021-11-30T02:55:03.005Z</updated>
+    <updated>2021-12-01T00:56:09.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Hokuzyo.github.io"/>
     <link rel="self" href="https://Hokuzyo.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://Hokuzyo.github.io/images/avatar.png</logo>
     <icon>https://Hokuzyo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dimos理想城</rights>
+    <entry>
+        <title type="html"><![CDATA[结语]]></title>
+        <id>https://Hokuzyo.github.io/post/jie-yu/</id>
+        <link href="https://Hokuzyo.github.io/post/jie-yu/">
+        </link>
+        <updated>2021-12-01T00:48:12.000Z</updated>
+        <content type="html"><![CDATA[<p>Dimos来源于澳门城市大学的社会学概论课程作业，在卢子健老师的指导与组员们的思考下不断完善下，一个学期后有了现在的样子。<br>
+dimos是集合了第五组全体同学理想与期待的美好城市。Dimos将承载着大家的期待在它所在的地方存在、发展下去。</p>
+<p>致谢<br>
+感谢我们的老师 卢子健博士，老师学识渊博，风趣幽默，在这个学期的课堂上老师教会了我们很多。<br>
+感谢每一节课所有参与小组讨论的组员同学们，是大家一点一点积攒的灵感与努力形成了dimos。（以下排名不分先后）<br>
+感谢网站建立者吴杰凯同学在网站搭建及dimos宗教文化设定中作出的巨大努力。他为这个小组付出了非常多。<br>
+感谢不愿意透露姓名的文案女工对小组日常讨论整合与网站所有文案的合理化整理审核修改做出的贡献。<br>
+感谢王哲宇同学对dimos的地理风貌设定做出的贡献。<br>
+感谢丁舒欣同学对dimos的社交政策设定做出的贡献。<br>
+感谢石悦、林己宸同学对dimos性别、人口、家庭设定做出的贡献。<br>
+感谢陈炬盛同学对dimos的更生人士方面设定做出的贡献。<br>
+感谢陈谨逸同学对dimos的行政区划方面做出的整合，他经常在小组讨论中做出一些大胆的猜想让大家思考另一种可能性。</p>
+<p>感谢大家的相遇与努力，也感谢到看到这里的你。</p>
+<p>板块负责人 胡岩</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们的社交政策]]></title>
         <id>https://Hokuzyo.github.io/post/wo-men-de-she-jiao-zheng-ce/</id>
@@ -28,9 +50,12 @@
         <link href="https://Hokuzyo.github.io/post/you-guan-yu-geng-sheng-ren-shi/">
         </link>
         <updated>2021-11-27T06:05:12.000Z</updated>
-        <content type="html"><![CDATA[<p>Dimos维护每一位民众的权利，更生人士也应该拥有改过自新的机会。我们与一部分企业合作并为他们提供补贴，为更生人士提供工作岗位。有多种类型的跳板企业可供选择。只要在跳板企业在岗工作三年且无不良工作情况，Dimos将以官方名义颁布工作执照，拥有此执照是转至其他企业的必要条件。</p>
-<p>离开监狱前后，更生人士同样需要进行心理测评以及再就业倾向统计，我们将通过此类数据对更生人士进行关注调查，保障社会秩序。</p>
-<p>特殊 更生青少年 dimos设有特殊教育学校“中途旅店”，为更生青少年再次步入社会提供过渡教育帮助，使他们的人生回到正轨。</p>
+        <content type="html"><![CDATA[<p>Dimos维护每一位民众的权利，更生人士也应该拥有改过自新的机会。我们与一部分企业合作并为他们提供补贴，为更生人士提供工作岗位。有多种类型的跳板企业可供选择。只要在跳板企业在岗工作三年且无不良工作情况，Dimos将以官方名义颁布工作执照，拥有此执照是转至其他企业的必要条件。<br>
+为防止更生人士在就业中遭到不公正待遇继而导致更糟的后果，这些企业我们都会一一筛选</p>
+<p>离开监狱前后，我们也会为更生人士进行心理评估以及再就业倾向统计，我们将通过此类数据对更生人士进行关注调查，保障社会秩序。</p>
+<p>为了他们出狱后可以更容易融入社会，在押期间，我们会向他们给建议和问他们想学什么生活技能等等，我们会请专业人士教导，为他们出狱后工作打算。他們出獄後，我们也会有提供帮助，如果他们遇到工作上有什么不公平的对待或是其他生活上的问题等，也可以来找我们的部门寻求帮助。</p>
+<p>更生青少年 dimos设有特殊教育学校“中途旅店”，主要面向未成年或刚刚成年的人士，他们会在“中途旅店”进行为期一年的更生教育，包括遵守社会规则、辛勤工作为等等，为他们再次步入社会提供过渡教育帮助，使他们的人生回到正轨。</p>
+<p>板块负责人  陳炬盛</p>
 ]]></content>
     </entry>
     <entry>
@@ -39,19 +64,24 @@
         <link href="https://Hokuzyo.github.io/post/fu-li-zheng-ce/">
         </link>
         <updated>2021-11-27T06:03:28.000Z</updated>
-        <content type="html"><![CDATA[<p>我们从四个角度出发思考社会福利问题<br>
-什么是社会福利<br>
--社会对于特殊对象的资助方案<br>
-对谁提供社会福利<br>
--弱势群体<br>
-为什么要提供帮助<br>
--我们希望能够帮助他们更加便利地在我们的城市生活<br>
-如何帮助社会弱势群体<br>
--捐赠行为<br>
--Dimos鼓励捐赠行为，我们提供包括但不限于物资与资金方面的线上线下的捐赠服务，您可以在我们的政府官方平台上献出自己的爱心。<br>
--Special care服务热线<br>
--残障人士友好设施：dimos的公共建筑均使用残障人士友好设施，旨在使大家能够拥有同样质量的生活体验<br>
--特殊儿童家庭社会支持：dimos设立公立特殊教育学校与特殊家庭关怀社区，如果您有需要，可以寻求此类部门的支持</p>
+        <content type="html"><![CDATA[<p>Dimos希望为各居民提供各种方面的社会福利，上至老人下至婴儿，力求保障每位居民从出生到老年阶段都能享受到全方位的社会福利，提高居民的幸福指数，构建一个安定而幸福的城市。</p>
+<p>医疗福利：<br>
+Dimos城市的医院有70%是公立医院，30%是私立医院。医疗资源平均分配，医疗设备同等先进，医护人手定期轮换至各个医院。我们的医疗保障系统涵盖所有的居民，并且医院都是非盈利性质。无论感冒发烧，还是重大疾病，居民在公立医院看病治疗的支付所有费用最高不能超过家庭总收入的两成，多出部分会由Dimos政府补贴。私立医院的总收费不能超过公立医院总收费的20%，低收入家庭去私立医院看症最高有50%的医疗补贴。</p>
+<p>育儿福利：<br>
+为了鼓励居民生育，提高Dimos的出生率，Dimos给予生育的夫妻生育奖励金。奖励金因人而异——是5个月夫妻双方税后总工资的金额。Dimos还体恤居民育儿的辛苦，会给予生育夫妻2个月的带薪假期。<br>
+<img src="https://Hokuzyo.github.io/post-images/1638318484341.png" alt="" loading="lazy"></p>
+<p>教育福利：<br>
+Dimos鼓励居民学习，小朋友、已就业的青年、已退休的老人等都可以享有教育福利。Dimos实行12年义务教育，小朋友的幼儿园保托费、小学、初中和高中的所有学费都由Dimos负责。对已就业的青年，他们都可以享受持续教育的教育福利，每年都报两门专业知识课程，费用由Dimos负责。已退休的老人，他们可以选择学习专业知识或健康知识的课程，费用也是免费。对于以上，学习成绩在班级排名前5%的居民，均可以获得奖学金。<br>
+<img src="https://Hokuzyo.github.io/post-images/1638318528623.png" alt="" loading="lazy"></p>
+<p>养老福利：<br>
+在Dimos，男女的退休年龄都是60岁。政府会给予退休老人每个月原月薪50%的养老金。退休老人若需要聘请护工，可以优先由Dimos政府分配合适人选，并且聘请护工的费用可获得政府补贴三成。Dimos在建立多间环境舒适的养老院，选择入住的养老院的退休老人，不用支付住院费和护工费，只需支付日常餐饮费。<br>
+<img src="https://Hokuzyo.github.io/post-images/1638318535924.png" alt="" loading="lazy"></p>
+<p>企业福利：<br>
+Dimos希望居民都能爱岗敬业，热爱自己的工作，企业也要把员工当成一份子。Dimos要求企业为员工提供薪酬以外的住房补贴、交通补贴、加班补贴等。对于失业的居民，Dimos会补助3个月原工资，并定期推荐合适的工作。遇到重大经济危机时，企业获获得Dimos的危机救助金，帮助企业渡过难关。</p>
+<p>贷款福利：<br>
+为了方便Dimos的居民置业，Dimos的居民可以享受银行零息购房购车的优惠。对于个人征信度高，为了创业的Dimos成年居民，可以享受三年的免息借贷。对于有创业蓝图的青少年，Dimos给予免息借贷，仅需要在盈利之后每年还政府5%税后利润。<br>
+<img src="https://Hokuzyo.github.io/post-images/1638318547659.png" alt="" loading="lazy"></p>
+<p>该板块负责人    李逸盈</p>
 ]]></content>
     </entry>
     <entry>
@@ -116,15 +146,17 @@ dimos支持优秀外国人才在本地落户且有外国人才住房优惠的政
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我们的领袖？]]></title>
+        <title type="html"><![CDATA[司法以及行政分权]]></title>
         <id>https://Hokuzyo.github.io/post/wo-men-de-ling-xiu/</id>
         <link href="https://Hokuzyo.github.io/post/wo-men-de-ling-xiu/">
         </link>
         <updated>2021-11-22T19:09:56.000Z</updated>
-        <content type="html"><![CDATA[<p>Dimos决定以民为本，我们会采用政府民主选举制度<br>
-以选举出市民心目中的Top Leader<br>
-市民具有义务进行票选<br>
-让每一位市民都拥有决定自己生活环境的权力！！</p>
+        <content type="html"><![CDATA[<p>Dimos的政府工作与司法部门相对独立，警察，检察院依法独立办案不受政府干预。<br>
+法院，检察院部门独立编制。<br>
+Dimos的选区按地域规划，居住满6个月且拥有dimos户籍的成年居民具有选举权。每年选举，按选票票数形成多数党与少数党派，形成议会，议会进行立法及决定立法，并任免最高法官，检察官。<br>
+城市的最高执行官为多数派政党领导人，由选民普选选出多数党，任期为三年（确保政策的延续性），并由执行官任命相关部门负责人。若席位相差不大，其他少数党派与多数党派组成联合政府。<br>
+Dimos有三级行政区划，依次为城市政府，区政府以及街道。公安按行政也分为相应三级。法院，检察院则分为市，区两级。</p>
+<p>板块负责人：陈谨逸</p>
 ]]></content>
     </entry>
     <entry>
@@ -150,7 +182,7 @@ dimos支持优秀外国人才在本地落户且有外国人才住房优惠的政
         <link href="https://Hokuzyo.github.io/post/dimos-de-ji-chu-she-ding/">
         </link>
         <updated>2021-11-22T19:03:16.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://Hokuzyo.github.io/post-images/1638100445738.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://Hokuzyo.github.io/post-images/1638318399633.png" alt="" loading="lazy"><br>
 Dimos位于北纬40度附近的大陆西岸，面积约为280平方英里，人口密度较小（90/平方公里），人均幸福指数较高。<br>
 Dimos沿岸有暖流经过，为温带海洋性气候，全年温和湿润，年温差较小。<br>
 我们的日常用水大部分来自一条流经过城市南部流入大海的河流和地下水，少部分来自海水淡化等。<br>
@@ -162,35 +194,6 @@ dimos交通发达，陆上公路、铁路、空运、海运均有包含，城市
 dimos还拥有规模庞大高效的地下管网系统，供水系统与排水系统等技术方案成熟，实用性强，便于保持城市环境整洁。<br>
 dimos集中发展包括商业与旅游在内的第三产业与尖端科技。我们的城市收入的另一个重要来源之一是可持续性的开发沿海海域丰富的可燃冰资源。</p>
 <p>板块负责人  王哲宇</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到Dimos，这是一个理想化的民主城市]]></title>
-        <id>https://Hokuzyo.github.io/post/a-e-zhe-li-huan-mei-you-kai-shi-jin-xing-shi-gong-ni/</id>
-        <link href="https://Hokuzyo.github.io/post/a-e-zhe-li-huan-mei-you-kai-shi-jin-xing-shi-gong-ni/">
-        </link>
-        <updated>2021-11-22T17:41:48.000Z</updated>
-        <content type="html"><![CDATA[<p>如您所见，这里是Dimos的更新日志<br>
-我们依然在积极进行网站内容上的补充<br>
-欢迎您来提供城市的建设建议</p>
-<p>城市的建设背景是在澳门城市大学  社会学概论<br>
-在Dr.卢子健教授指导下<br>
-进行虚拟的社会建设模拟</p>
-<p>我们的宗旨是假设经济条件与社会背景无限制的情况下<br>
-建设出无限接近民主的理想社会<br>
-在这个标题下甚至可以衍生赛博朋克、乌托邦、魔法型社会<br>
-经再三讨论，我们小组也依然决定建设民主理想化城市<br>
-这就是Dimos的建设背景</p>
-<pre><code>板块负责划分
-城市基础设定                          王哲宇
-更生人士方面                          陳炬盛
-社会福利部分                          李逸盈
-社交政策                                 丁舒欣
-性别与人口方面                        石悦  林己宸
-内容集合，查漏补缺以及修改    胡岩
-网站建设+宗教文化风貌建设   吴杰凯
-</code></pre>
-<figure data-type="image" tabindex="1"><img src="https://Hokuzyo.github.io/post-images/1637603660169.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
